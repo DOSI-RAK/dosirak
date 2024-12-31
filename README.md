@@ -80,6 +80,9 @@ DOSI:RAK 의 GREEN GUIDE는 지도기반으로 </br>
 #### ⌚️ 개발기간
 ` 2024.10.09 ` → `2024.12.06`
 
+#### ⌚️ API 명세서
+[API명세서](https://dosi-rak.github.io/dosirak-be/)
+
 ## 📱 MOBILE
 ⚡️ mobile repository [바로가기](https://github.com/DOSI-RAK/dosirak-ios)
 

@@ -10,11 +10,13 @@
 
 3. [**주요 기능**](#3)
 
-4. [**프로젝트 구성도**](#4)
-  
-5. [**팀원 소개**](#5)
+4. [**부가 기능**](#4)
 
-6. [**레포지토리**](#6)
+5. [**프로젝트 구성도**](#5)
+  
+6. [**팀원 소개**](#6)
+
+7. [**레포지토리**](#7)
 
 <hr />
 
@@ -25,7 +27,7 @@
 #### ⌚️ 개발기간
 ` 2024.10.09 ` → `2024.12.06`
 
-### 🌏 지구 지킬 용기, 도시락 (DOSI:RAK) 
+#### 🌏 지구 지킬 용기, 도시락 (DOSI:RAK) 
 >  DOSI:RAK은 사용자가 **다회용기 사용을 간편하게 인증하고 이를 통해 부여받는 리워드를 통해 환경 보호를 실천할 수 있도록 돕는 인공지능 기반 친환경 애플리케이션**으로
 게임화 요소를 포함해 즐거움을 더하고 다양한 네트워킹 기능을 통해 누구나 쉽게 환경 보호 활동에 동참할 수 있는 기회를 제공합니다. </br>
 저희 **팀 GPU**는 DOSI:RAK 어플리케이션 개발을 통해 다회용기 사용 문화를 확산시키는 것을 목표로 합니다.  
@@ -33,19 +35,17 @@
 <br />
 
 <div id="2"></div>
+</br>
 
 ## 🛠 기술 스택
 
 <table align="center">
   <tr>
-    <td align="center" width="180"><strong>Front-end 기술 스택</strong></td>
+    <td align="center" width="180"><strong>mobile 기술 스택</strong></td>
     <td>
       <div>
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
-        <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-        <img src="https://img.shields.io/badge/pinia-FFCD11?style=for-the-badge&logo=pinia&logoColor=white"> 
-        <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> 
-        <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> 
+        <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"> 
+        <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> 
       </div>
     </td>
   </tr>
@@ -53,8 +53,8 @@
     <td align="center" width="180"><strong>Back-end 기술 스택</strong></td>
     <td>
         <img src="https://img.shields.io/badge/springboot-green?style=for-the-badge&logo=springboot&logoColor=white">
+        <img src="https://img.shields.io/badge/spring JPA-green?style=for-the-badge&logo=hibernate&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white">
-        <img src="https://img.shields.io/badge/MyBatis-212121?logo=mybatis&style=for-the-badge&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -64,12 +64,6 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&style=for-the-badge&logoColor=white"/>
         <img src="https://img.shields.io/badge/Amazone RDS-527FFF?logo=amazonrds&style=for-the-badge&logoColor=white">
       <img src="https://img.shields.io/badge/letsencrypt-003A70?logo=letsencrypt&style=for-the-badge&logoColor=white">
-  </tr>
-    <tr>
-    <td align="center"><strong>Artificial Intelligence</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
-    </td>
   </tr>
   <tr>
     <td align="center"><strong>배포</strong></td>
@@ -83,8 +77,9 @@
 <br />
 
 <div id="3"></div>
+</br>
 
-## 💡 주요 기능
+## 💡 주요기능
 
 **① GREEN GUIDE** 
 
@@ -115,7 +110,11 @@ DOSI:RAK 의 GREEN GUIDE는 지도기반으로 </br>
 더불어 `측정하기`를 누르시면 사용자의 이동을 추적하고 거리를 기반으로 리워드를 제공합니다.
 
 <!--①②③④⑤⑥⑦⑧⑨⑩-->
-##  DOSI:RAK의 부가기능
+<div id="4"></div>
+</br>
+
+##  💡 부가기능
+
 **⑤ GREEN TALK** 
 
 > ***환경을 생각하는 사람들과 친해지면, 함께 플로깅도 할 수 있을텐데...***
@@ -147,7 +146,8 @@ DOSI:RAK 의 GREEN GUIDE는 지도기반으로 </br>
 사람들이 헷갈려하는 환경문제를 수집하여 O/X 형태로 제공합니다.</br>
 지속적인 어플 사용을 위해, 하루에 한문제씩만 풀 수 있도록 구현하였습니다.</br>
 
-<div id="5"></div>
+<div id="6"></div>
+</br>
 
 ## 👩‍💻 팀원소개
 
@@ -156,10 +156,11 @@ DOSI:RAK 의 GREEN GUIDE는 지도기반으로 </br>
 | <img src="https://avatars.githubusercontent.com/u/75514808?v=4" width="100">  | <img src="https://avatars.githubusercontent.com/u/50399586?v=4" width="100">|<img src="https://avatars.githubusercontent.com/u/118620724?v=4" width="100">|<img src="https://avatars.githubusercontent.com/u/48856104?v=4" width="100">|
 |Lead, BACKEND| BACKEND | BACKEND | ios |
 
-<div id="6"></div>
+<div id="7"></div>
+</br>
 
 ## 📦 레포지토리
 
-⚡️ mobile repository [바로가기](https://github.com/DOSI-RAK/dosirak-ios)
+⚡️ mobile repository [바로가기](https://github.com/DOSI-RAK/dosirak-ios) </br>
 ⚡️ bakcend repository [바로가기](https://github.com/DOSI-RAK/dosirak-be)
 

@@ -1,6 +1,6 @@
-##  도시락 (DOSI:RAK) 🌱 
+##  도시락 (DOSI:RAK) 🍴
 지구를 위해 '용기'내! 다회용기 사용장려 어플리케이션 
-> 2024 제 13회 피우다 프로젝트 장려상 수상작
+> 🏆 2024 제 13회 피우다 프로젝트 장려상 수상작
 
 ![piuda_main](https://github.com/user-attachments/assets/0bed80b9-aa8c-4029-ab57-fb10e656c8ab)
 
@@ -81,33 +81,58 @@
 
 ## 💡 주요기능
 
-**① GREEN GUIDE** 
-
-> ***나도 다회용기 포장 실천해보고 싶은데... 가게에서 싫어하면 어떡하지?***
-
-DOSI:RAK 의 GREEN GUIDE는 지도기반으로 </br>
-다회용기 포장을 지원하는 내 주변 '제로식당'정보와 다회용기를 위한 포장 할인 혜택 정보를 제공합니다. </br>
-다회용기 포장이 원할할 수 있도록, 메뉴 별 '1인분 기준' 다회용기 추천 용량 정보도 제공해 드립니다. 
-
-**② GREEN CLUB** 
-> ***음식물 쓰레기를 줄일 수 있도록, 마감세일 가게 정보를 제공합니다.***
-
-제시간에 판매되지 못하고 폐기되는 음식물이 줄 수 있도록, 마감임박세일을 제공하는 가게의 정보를 제공합니다.
-할인율, 마감할인 시간, 나와의 거리 등의 정보를 제공합니다.
-
-**③ GREEN AUTH** 
-> ***당신의 다회용기 사용을 인증해드립니다.***
-
-'용기내 챌린지' 제대로 해볼까요? </br>
-다회용기 포장사진을 찍어서 어플에 업로드만 해주시면, 인공지능을 활용해 다회용기 사용여부를 인증해드립니다!
-이를 통해 리워드도 얻고, green commit에 활동기록을 남길 수 있습니다.
-
-**④ GREEN TRACK** 
-> ***다회용기 포장까지 가는 길도 도보/따릉이로 탄소배출량을 줄일 수 있도록..***
-
-다회용기 포장가게 까지 가는길도 친환경적으로! 도보나 따릉이를 이용해보는건 어떨까요? </br>
-원하는 다회용기 가게를 선택하면, 도보로 걸리는 시간/거리와 가까운 따릉이 보관소까지의 시간/거리를 보여드립니다.
-더불어 `측정하기`를 누르시면 사용자의 이동을 추적하고 거리를 기반으로 리워드를 제공합니다.
+<table>
+  <thead>
+    <tr>
+      <th align="center">기능이름</th>
+      <th align="center">기능 설명</th>
+      <th colspan="2" align="center">screenshots</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>① GREEN GUIDE</strong></td>
+      <td align="center">
+        <strong> <em> 나도 다회용기 포장 실천해보고 싶은데...</br>가게에서 싫어하면 어떡하지?</em></strong></br></br>
+        DOSI:RAK 의 GREEN GUIDE는 지도기반으로 다회용기 포장을 지원하는 내 주변 '제로식당' 정보와 다회용기 포장 할인
+        혜택 정보를 제공합니다.다회용기 포장이 원활할 수 있도록 메뉴 별 '1인분 기준' 다회용기 추천 용량 정보도 제공해 드립니다.
+      </td>
+      <td><img src="./screenshots/greenauth-1-resize.gif" alt="GreenAuth GIF" width="250" /></td>
+      <td><img src="./screenshots/greenauth-1-resize.gif" alt="GreenAuth GIF" width="250" /></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>② GREEN CLUB</strong></td>
+      <td align="center">
+        <strong> <em> 음식물 쓰레기를 줄일 수 있도록 </br> 마감세일을 하는 가게 정보를 제공합니다. </em></strong></br></br>
+        제시간에 판매되지 못하고 폐기되는 음식물이 줄 수 있도록, 마감임박세일을 제공하는 가게의 정보를 제공합니다.
+        할인율, 마감할인 시간, 나와의 거리 등의 정보를 제공합니다. 
+      </td>
+      <td><img src="./screenshots/greenclub-resize.gif" alt="GreenAuth GIF" width="250" /></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>③ GREEN AUTH</strong></td>
+      <td align="center">
+        <strong> <em> '용기내 챌린지' 제대로 해볼까요? </br> 당신의 다회용기 사용을 인증해드립니다. </em></strong></br></br>
+        다회용기 포장사진을 찍어서 어플에 업로드만 해주시면, 인공지능을 활용해 다회용기 사용여부를 인증해드립니다!
+        이를 통해 리워드도 얻고, green commit에 활동기록을 남길 수 있습니다.
+      </td>
+      <td><img src="./screenshots/greenauth-1-resize.gif" alt="GreenAuth GIF" width="250" /></td>
+      <td><img src="./screenshots/greenauth-2-resize.gif" alt="GreenAuth GIF" width="250" /></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>④ GREEN TRACK</strong></td>
+      <td align="center">
+        <strong> <em> 다회용기 포장까지 가는 길도 </br> 도보/따릉이로 탄소배출량을 줄일 수 있도록.. </em></strong></br></br>
+        다회용기 포장가게 까지 가는길도 도보나 따릉이를 이용해보는건 어떨까요?
+        원하는 다회용기 가게를 선택하면, 도보로 걸리는 시간/거리와 가까운 따릉이 보관소까지의 시간/거리를 보여드립니다.
+        더불어 `측정하기`를 누르시면 사용자의 이동을 추적하고 거리를 기반으로 리워드를 제공합니다.
+      </td>
+      <td><img src="./screenshots/greenauth-1-resize.gif" alt="GreenAuth GIF" width="250" /></td>
+      <td><img src="./screenshots/greenauth-1-resize.gif" alt="GreenAuth GIF" width="250" /></td>
+    </tr>
+  </tbody>
+</table>
 
 <!--①②③④⑤⑥⑦⑧⑨⑩-->
 <div id="4"></div>

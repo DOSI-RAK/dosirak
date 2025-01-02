@@ -84,7 +84,7 @@
   <thead>
     <tr>
       <th align="center">기능이름</th>
-      <th align="center">기능 설명</th>
+      <th align="center">기능설명</th>
       <th colspan="2" align="center">screenshots</th>
     </tr>
   </thead>
@@ -143,7 +143,7 @@
   <thead>
     <tr>
       <th align="center">기능이름</th>
-      <th align="center">기능 설명</th>
+      <th align="center">기능설명</th>
       <th colspan="2" align="center">screenshots</th>
     </tr>
   </thead>

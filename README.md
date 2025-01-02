@@ -96,8 +96,8 @@
         DOSI:RAK 의 GREEN GUIDE는 지도기반으로 다회용기 포장을 지원하는 내 주변 '제로식당' 정보와 다회용기 포장 할인
         혜택 정보를 제공합니다.다회용기 포장이 원활할 수 있도록 메뉴 별 '1인분 기준' 다회용기 추천 용량 정보도 제공해 드립니다.
       </td>
-      <td><img src="./screenshots/greenauth-1-resize.gif" alt="GreenAuth GIF" width="250" /></td>
-      <td><img src="./screenshots/greenauth-1-resize.gif" alt="GreenAuth GIF" width="250" /></td>
+      <td><img src="./screenshots/greenguide-1-resize.gif" alt="GreenGuide GIF" width="250" /></td>
+      <td><img src="./screenshots/greenguide-2-resize.gif" alt="GreenGuide GIF" width="250" /></td>
     </tr>
     <tr>
       <td align="center"><strong>② GREEN CLUB</strong></td>
@@ -106,7 +106,7 @@
         제시간에 판매되지 못하고 폐기되는 음식물이 줄 수 있도록, 마감임박세일을 제공하는 가게의 정보를 제공합니다.
         할인율, 마감할인 시간, 나와의 거리 등의 정보를 제공합니다. 
       </td>
-      <td><img src="./screenshots/greenclub-resize.gif" alt="GreenAuth GIF" width="250" /></td>
+      <td><img src="./screenshots/greenclub-resize.gif" alt="GreenClub GIF" width="250" /></td>
       <td></td>
     </tr>
     <tr>
@@ -127,8 +127,8 @@
         원하는 다회용기 가게를 선택하면, 가까운 순으로 따릉이 보관소까지의 시간/거리를 보여드립니다.
         더불어 `측정하기`를 누르시면 사용자의 이동을 추적하고 거리를 기반으로 리워드를 제공합니다.
       </td>
-      <td><img src="./screenshots/greenauth-1-resize.gif" alt="GreenAuth GIF" width="250" /></td>
-      <td><img src="./screenshots/greenauth-1-resize.gif" alt="GreenAuth GIF" width="250" /></td>
+      <td><img src="./screenshots/greentrack-8x.gif" alt="GreenTrack GIF" width="250" /></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -156,8 +156,8 @@
         그리너스가 모일 수 있도록 지역기반 채팅기능을 제공합니다.
         다회용기 사용인증을 통해 얻은 리워드 기반으로 내 위치 근방 채팅방에 참여하거나, 채팅방을 직접 생성할 수 있습니다. 
       </td>
-      <td><img src="./screenshots/greenauth-1-resize.gif" alt="GreenAuth GIF" width="250" /></td>
-      <td><img src="./screenshots/greenauth-1-resize.gif" alt="GreenAuth GIF" width="250" /></td>
+      <td><img src="./screenshots/greentalk-1.gif" alt="GreenTalk GIF" width="250" /></td>
+      <td><img src="./screenshots/greentalk-2.gif" alt="GreenTalk GIF" width="250" /></td>
     </tr>
     <tr>
       <td align="center"><strong>⑥ GREEN COMMIT</strong></td>
@@ -167,7 +167,7 @@
         그리너스의 활동들이 매일 달력형태의 GREEN COMMIT에 기록됩니다.
         날마다 환경활동을 실천하고 기록해보아요! SNS 공유를 통한 자랑은 덤 +
       </td>
-      <td><img src="./screenshots/greencommit-resize.gif" alt="GreenAuth GIF" width="250" /></td>
+      <td><img src="./screenshots/greencommit-resize.gif" alt="GreenCommit GIF" width="250" /></td>
       <td></td>
     </tr>
     <tr>
@@ -177,8 +177,8 @@
         `GREEN AUTH` 와 `GREEN TRACK`으로 얻은 리워드들을 기반으로 매달 순위가 매겨집니다.
         우리함께 `GREEN HEROES`로 설정될 수 있도록 환경활동을 실천해보아요!
       </td>
-      <td><img src="./screenshots/greenauth-1-resize.gif" alt="GreenAuth GIF" width="250" /></td>
-      <td><img src="./screenshots/greenauth-2-resize.gif" alt="GreenAuth GIF" width="250" /></td>
+      <td><img src="./screenshots/greenheroes-resize.gif" alt="GreenHeroes GIF" width="250" /></td>
+      <td></td>
     </tr>
     <tr>
       <td align="center"><strong> ⑧ GREEN ELITE </strong></td>
@@ -187,8 +187,8 @@
         사람들이 헷갈려하는 환경문제를 수집하여 O/X 형태로 제공합니다.
         지속적인 어플 사용을 위해, 하루에 한문제씩만 풀 수 있도록 구현하였습니다.
       </td>
-      <td><img src="./screenshots/greenelite-1-resize.gif" alt="GreenAuth GIF" width="250" /></td>
-      <td><img src="./screenshots/greenelite-2-resize.gif" alt="GreenAuth GIF" width="250" /></td>
+      <td><img src="./screenshots/greenelite-1-resize.gif" alt="GreenElite GIF" width="250" /></td>
+      <td><img src="./screenshots/greenelite-2-resize.gif" alt="GreenElite GIF" width="250" /></td>
     </tr>
   </tbody>
 </table>
@@ -210,8 +210,8 @@
 
 ### 📦 레포지토리
 
-⚡️ mobile repository [바로가기](https://github.com/DOSI-RAK/dosirak-ios) </br>
-⚡️ bakcend repository [바로가기](https://github.com/DOSI-RAK/dosirak-be)
+- 🔗 mobile repository  [바로가기](https://github.com/DOSI-RAK/dosirak-ios)
+- 🔗 bakcend repository  [바로가기](https://github.com/DOSI-RAK/dosirak-be)
 
 <hr></hr>
 

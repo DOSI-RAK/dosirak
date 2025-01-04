@@ -202,7 +202,7 @@
 |[박해인](https://github.com/femmefatalehaein)|[정재현](https://github.com/hyeonjaez)|[이유진](https://github.com/yyujin1231)|[권민재](https://github.com/gomminjae)|
 |:---:|:---:|:---:|:---:|
 | <img src="https://avatars.githubusercontent.com/u/75514808?v=4" width="100">  | <img src="https://avatars.githubusercontent.com/u/50399586?v=4" width="100">|<img src="https://avatars.githubusercontent.com/u/118620724?v=4" width="100">|<img src="https://avatars.githubusercontent.com/u/48856104?v=4" width="100">|
-|Lead, BACKEND| BACKEND | BACKEND | ios |
+|Lead, BACKEND| BACKEND | BACKEND | iOS |
 
 <hr></hr>
 
